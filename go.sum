@@ -1,0 +1,6 @@
+github.com/Kodeworks/golang-image-ico v0.0.0-20141118225523-73f0f4cfade9 h1:1ltqoej5GtaWF8jaiA49HwsZD459jqm9YFz9ZtMFpQA=
+github.com/Kodeworks/golang-image-ico v0.0.0-20141118225523-73f0f4cfade9/go.mod h1:7uhhqiBaR4CpN0k9rMjOtjpcfGd6DG2m04zQxKnWQ0I=
+github.com/hallazzang/syso v0.0.0-20190816135029-43d74b8c1725 h1:BehmVoIWPZva9DP47JIrtCiFcJjHJPUC9lBMOx/pSH8=
+github.com/hallazzang/syso v0.0.0-20190816135029-43d74b8c1725/go.mod h1:ux1CNzSbAGjD7eLxQxZ1IXHo9IRCJLJpydrUSwi4/+I=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
