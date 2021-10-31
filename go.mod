@@ -1,4 +1,4 @@
-module govcl-build
+module github.com/leitwolf/govcl-build
 
 go 1.17
 
