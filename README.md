@@ -5,6 +5,11 @@
 - 直接使用png图片作为程序图标
 - 生成的程序适应高DPI屏幕(2k, 4k屏)
 
+## 安装
+```
+go install github.com/leitwolf/govcl-build@latest
+```
+
 ## 用法
 ![usage](usage.png)
 说明：
